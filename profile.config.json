@@ -1,69 +1,86 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Maritza Aurelia Ramadhanti",
+    "username": "maritzaar",
+    "headline": "Data Analyst & Full-stack Developer",
+    "affiliation": "Telkom University",
+    "location": "Bandung, Indonesia",
+    "status": "Learning / Developing / Innovating",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Data Analyst and Full-stack Developer with a strong passion for integrating information systems to optimize business operations.",
+      "Detail-oriented and highly adaptable, with a solid foundation in data analysis, system architecture, and building user-centric digital solutions."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "System Integration",
+    "direction": "Efficient digital solutions",
+    "themes": "Software development / IoT / UI/UX Design",
+    "narrative": "I am driven by the potential of technology to streamline workflows and enhance operational efficiency through thoughtful system design and integration."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Development",
+      "description": "Building and integrating web and mobile applications to solve practical problems."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Internet of Things (IoT)",
+      "description": "Implementing smart, connected solutions to bridge the gap between digital systems and the physical world."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "System Analysis",
+      "description": "Designing enterprise architectures and managing IT projects effectively."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Gymate",
+      "url": "https://github.com/maritzaar/gymate",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Fitness Management App",
+      "summary": "A web application built with Laravel to help users efficiently track workout schedules and manage fitness data.",
+      "heroLabel": "Web Application"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "CarrierHub",
+      "url": "https://github.com/maritzaar/carrierhub",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Career Integration Platform",
+      "summary": "A career service platform developed using Java, JSP, and HTML/CSS to support students' professional needs.",
+      "heroLabel": "Java Web App"
+    },
+    {
+      "name": "Smart Tapping",
+      "url": "https://github.com/maritzaar/smart-tapping",
+      "homepage": "",
+      "focus": "IoT Access Control",
+      "summary": "An automated attendance and access system leveraging RFID/NFC technology to improve process efficiency.",
+      "heroLabel": "IoT Solution"
+    },
+    {
+      "name": "Parent Dashboard",
+      "url": "https://github.com/maritzaar",
+      "homepage": "",
+      "focus": "User Interface Design",
+      "summary": "An intuitive digital dashboard designed to help parents digitally monitor their children's growth and daily activities.",
+      "heroLabel": "UI/UX Design"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "Go",
+    "C++",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "HTML",
+    "CSS",
+    "Linux"
   ],
   "links": [
     {
-      "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
-      "logo": "github",
-      "color": "0B1220"
+      "label": "LinkedIn",
+      "value": "maritzaar",
+      "url": "https://www.linkedin.com/in/maritzaar/",
+      "logo": "linkedin",
+      "color": "0A66C2"
     }
   ],
   "activity": {
@@ -73,5 +90,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Driven by a commitment to continuous learning and technological innovation."
 }
